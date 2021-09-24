@@ -7,6 +7,7 @@ st.markdown("<h2 style='text-align: center; color: black;'>Fred Zimmerman</h2>",
 
 st.markdown("<p style='text-align: center; color: black;'>wfzimmerman@gmail.com | +1.734-545-5369</p>", unsafe_allow_html=True)
 
+
 st.markdown("<p style='text-align: right; color: black;'>September 24, 2021</p>", unsafe_allow_html=True)
 
 st.markdown("""When I first saw Streamlit, two weeks ago, I had three main reactions over the course of the first twenty-four hours. 
@@ -15,7 +16,7 @@ st.markdown("""When I first saw Streamlit, two weeks ago, I had three main react
  -  "I am going to scrap all my other stuff and bring everything together in this framework."
  """)
 
-st.markdown("""I am a serial entrepreneur, developer, and product manager with experience with big data in the climate, legal, intelligence, and publishing industries.  I graduated from Swarthmore College and have a JD from Wayne State University Law School.""")
+st.markdown("""I am a serial entrepreneur, developer, and product manager with experience with big data in the climate, legal, intelligence, and publishing industries.  I graduated from Swarthmore College and have a JD from Wayne State University Law School. In a diverse career at the intersection of tech and publishing, I have been a data archivist for a NASA contract, a product manager for LexisNexis and the publishing company Gale, an intelligence analyst for US government, done an angel-funded startup, and created a publishing company.""")
 
 st.markdown("""My publishing company, Nimble Books, has a variety of digital assets built up over the course of 15 years, including a Ghost blog, a pile of static html pages, a Flask/Stripe-based suite of tools for book-lovers using OpenAI (with a React v2 in progress), a royalty program using Pandas, and lots of offline content in spreadsheet, docx, PDF, image, and archival JSON formats.""")
 
@@ -51,4 +52,12 @@ The following is just an example chosen at random from a couple of things that I
 
 I responded to John and observed that I do not think that creating a sixth FAANG company would necessarily have the hoped-for benefits. I pointed out there are already billions of dollars invested in data decentralization via blockchain and directed him to Balaji Srinivasan.  Balaji replied with a link to [this article](https://balajis.com/yes-you-may-need-a-blockchain/) where he presents a pleasingly specific discussion of existing data interchange formats -- he lists APIs, JSON, PDF, CSV, MBOX, and/or SFTP -- and argues that the next big step forward is to have people able to treat public blockchains as "massively multiclient open state databases where every user is a root user." Now, I'm not a religious enthusiast about blockchain or bitcoin, but I can see where's he's heading with this, and where having data scientists using be able to read and write to a MMOODB _as easily as JSON_ might be a bit of transformational 'magic.'
 
-To repeat, this is just an example -- I would expect the PM for Magic to be having lots of conversations like this, including many that are much more technically-focused--but I hope this gives a flavor for my pre-context approach to the role.""")
+To repeat, this is just an example--I would expect the PM for Magic to be having lots of conversations like this, including many that are much more technically-focused--but I hope this gives a flavor for my pre-context approach to the role.
+
+I trust this adequately communicates that I would bring to Streamlit a high level of passion, energy, and alignment with a shared vision.  I would very much enjoy meeting some members of your team and learning more about your future direction.
+
+Cordially,
+
+Fred Zimmerman
+""")
+
